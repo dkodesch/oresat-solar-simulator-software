@@ -14,6 +14,8 @@ The original work for this was done as an MCECS Capstone Project from January to
 
 The continuation of this project is to convert the OreSat Solar Simulator Software from using the Beaglebone microcontroller to the Raspberry Pi Pico. The maintainers are OreSat engineers Charlene de la Paz, John Albert Abed, Angeline Vu, and Rose Edington with the assistance of Industry Advisor Jake Taylor.
 
+Further continuation was started July 2025 by Jack McMahon to improve interface and add features.
+
 ## Planned Architecture
 Hardware Stack
 ```mermaid
